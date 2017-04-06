@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Clion_Tetris"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\SFML-find\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/dmitriy/HomeWork/Tetris/Clion-Tetris/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/dmitriy/HomeWork/Tetris/Clion-Tetris/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/dmitriy/HomeWork/Tetris/Clion-Tetris/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/dmitriy/HomeWork/Tetris/Clion-Tetris/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/dmitriy/HomeWork/Tetris/Clion-Tetris/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/dmitriy/HomeWork/Tetris/Clion-Tetris/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/dmitriy/HomeWork/Tetris/Clion-Tetris/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/dmitriy/HomeWork/Tetris/Clion-Tetris/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/dmitriy/HomeWork/Tetris/Clion-Tetris/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/dmitriy/HomeWork/Tetris/Clion-Tetris/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/dmitriy/HomeWork/Tetris/Clion-Tetris/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/dmitriy/HomeWork/Tetris/Clion-Tetris/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/dmitriy/HomeWork/Tetris/Clion-Tetris/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/dmitriy/HomeWork/Tetris/Clion-Tetris/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/dmitriy/HomeWork/Tetris/Clion-Tetris/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Clion_Tetris">
+				<Option output="/home/dmitriy/HomeWork/Tetris/Clion-Tetris/cmake-build-debug/Clion_Tetris" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/dmitriy/HomeWork/Tetris/Clion-Tetris/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/dmitriy/HomeWork/Tetris/Clion-Tetris/cmake-build-debug/Makefile&quot;  VERBOSE=1 Clion_Tetris"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/dmitriy/HomeWork/Tetris/Clion-Tetris/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/dmitriy/HomeWork/Tetris/Clion-Tetris/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/dmitriy/HomeWork/Tetris/Clion-Tetris/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Clion_Tetris/fast">
+				<Option output="/home/dmitriy/HomeWork/Tetris/Clion-Tetris/cmake-build-debug/Clion_Tetris" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/dmitriy/HomeWork/Tetris/Clion-Tetris/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/dmitriy/HomeWork/Tetris/Clion-Tetris/cmake-build-debug/Makefile&quot;  VERBOSE=1 Clion_Tetris/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/dmitriy/HomeWork/Tetris/Clion-Tetris/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/dmitriy/HomeWork/Tetris/Clion-Tetris/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/dmitriy/HomeWork/Tetris/Clion-Tetris/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/dmitriy/HomeWork/Tetris/Clion-Tetris/Blocks.cpp">
+			<Option target="Clion_Tetris"/>
+		</Unit>
+		<Unit filename="/home/dmitriy/HomeWork/Tetris/Clion-Tetris/Blocks.hpp">
+			<Option target="Clion_Tetris"/>
+		</Unit>
+		<Unit filename="/home/dmitriy/HomeWork/Tetris/Clion-Tetris/Field.cpp">
+			<Option target="Clion_Tetris"/>
+		</Unit>
+		<Unit filename="/home/dmitriy/HomeWork/Tetris/Clion-Tetris/Field.hpp">
+			<Option target="Clion_Tetris"/>
+		</Unit>
+		<Unit filename="/home/dmitriy/HomeWork/Tetris/Clion-Tetris/Figure.cpp">
+			<Option target="Clion_Tetris"/>
+		</Unit>
+		<Unit filename="/home/dmitriy/HomeWork/Tetris/Clion-Tetris/Figure.hpp">
+			<Option target="Clion_Tetris"/>
+		</Unit>
+		<Unit filename="/home/dmitriy/HomeWork/Tetris/Clion-Tetris/Fonts.hpp">
+			<Option target="Clion_Tetris"/>
+		</Unit>
+		<Unit filename="/home/dmitriy/HomeWork/Tetris/Clion-Tetris/Images.hpp">
+			<Option target="Clion_Tetris"/>
+		</Unit>
+		<Unit filename="/home/dmitriy/HomeWork/Tetris/Clion-Tetris/Sounds.hpp">
+			<Option target="Clion_Tetris"/>
+		</Unit>
+		<Unit filename="/home/dmitriy/HomeWork/Tetris/Clion-Tetris/Utils.hpp">
+			<Option target="Clion_Tetris"/>
+		</Unit>
+		<Unit filename="/home/dmitriy/HomeWork/Tetris/Clion-Tetris/main.cpp">
+			<Option target="Clion_Tetris"/>
+		</Unit>
+		<Unit filename="/home/dmitriy/HomeWork/Tetris/Clion-Tetris/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/home/dmitriy/HomeWork/Tetris/Clion-Tetris/SFML-find/FindSFML.cmake">
+			<Option virtualFolder="CMake Files\SFML-find\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
